@@ -1,13 +1,10 @@
 # 🌍 Modelling Geofisika: Simulasi & Visualisasi Data Geofisika Interaktif  
 
-<div align="center">
-  <!-- Badges dari Shields.io -->
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-  [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
-  [![Last Commit](https://img.shields.io/github/last-commit/Ivanhutabarat/Modelling-geofisika)](https://github.com/Ivanhutabarat/Modelling-geofisika/commits/main)
-  [![Repo Size](https://img.shields.io/github/repo-size/Ivanhutabarat/Modelling-geofisika)](https://github.com/Ivanhutabarat/Modelling-geofisika)
-</div>
+<[![GitHub followers](https://img.shields.io/github/followers/Ivanhutabarat?label=Follow&style=social)](https://github.com/Ivanhutabarat)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Ivanhutabarat/Modelling-geofisika?style=social)](https://github.com/Ivanhutabarat/Modelling-geofisika)
+[![GitHub License](https://img.shields.io/github/license/Ivanhutabarat/Modelling-geofisika)](https://github.com/Ivanhutabarat/Modelling-geofisika/blob/main/LICENSE)
+[![Languages](https://img.shields.io/github/languages/top/Ivanhutabarat/Modelling-geofisika)](https://github.com/Ivanhutabarat/Modelling-geofisika)
+[![Last Commit](https://img.shields.io/github/last-commit/Ivanhutabarat/Modelling-geofisika)](https://github.com/Ivanhutabarat/Modelling-geofisika)
 
 <div align="center">
   <!-- GIF animasi intro -->
